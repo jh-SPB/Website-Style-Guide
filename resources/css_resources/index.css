@@ -1,0 +1,152 @@
+body {
+    margin: 0 10%;
+}
+
+#title {
+    text-align: center;
+    font-size: 50px;
+}
+
+.container {
+    border: 2px solid black;
+    padding: 15px;
+    margin: 10px auto;
+}
+
+.colors-section {
+    background-color: beige;
+}
+
+#colors-title {
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+#colors-container {
+    width: 100%;
+    text-align: center;
+}
+
+.color-panel {
+    display: inline-block;
+    width: 25%;
+    text-align: center;
+    margin: 20px auto;
+    min-height: 100px;
+}
+
+.use-description {
+    font-style: italic;
+}
+
+.royal-blue {
+    background-color: #2d5dcc;
+    color: white;
+}
+
+.blue-magenta {
+    background-color: #5000ff;
+    color: white;
+}
+
+.emerald {
+    background-color: #30cf6c;
+    color: white;
+}
+
+.fonts-section {
+    background-color: bisque;
+    text-align: center;
+}
+
+#fonts-title {
+    text-align: center;
+    font-size: 35px;
+    text-decoration: underline;
+}
+
+.font-panel {
+    display: inline-block;
+    margin: auto 1px;
+    border: 2px solid blue;
+    padding: 5px;
+    width: 25%;
+    min-height: 100px;
+}
+
+.font-label {
+    font-family: Quiksand,sans-serif;
+    text-decoration: underline;
+    font-size: 20px;
+    text-align: center;
+    position: relative;
+    top: -5px;
+}
+
+.quicksand-font {
+    font-family: Quicksand;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.oxygen-font {
+    font-family: Oxygen;
+}
+
+.libre-baskerville-font {
+    font-family: 'libre baskerville';
+}
+
+.text-styles-section {
+    background-color: azure;
+    text-align: center;
+}
+
+#text-styles-title {
+    font-size: 35px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#text-styles-heading {
+    font-weight: 900;
+    font-size: 35px;
+    font-family: Libre Baskerville;
+}
+
+.text-styles-panel {
+    display: inline-block;
+    min-height: 100px;
+    margin: auto 40px;
+    padding: 15px;
+}
+
+#text-styles-heading-list {
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    list-style-position: inside;
+}
+
+#text-styles-subheading {
+    font-weight: 500;
+    font-size: 30px;
+    font-family: Oxygen
+}
+
+#subheading-list {
+    font-size: 20px;
+}
+
+#paragraph-list {
+    font-size: 20px
+}
